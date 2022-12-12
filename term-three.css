@@ -1,5 +1,7 @@
 img {
     width: 500px;
+    border-radius: 15px;
+    border: solid 5px black;
 }
 body    {
     background-color: darkgrey;

@@ -1,0 +1,21 @@
+img {
+    width: 500px;
+}
+body    {
+    background-color: darkgrey;
+    margin: auto;
+    border: solid 7.5px black;
+    border-radius: 35px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+a:hover {
+    color: lightblue;
+    background-color: grey
+}
+a   {
+    color: blue;
+}

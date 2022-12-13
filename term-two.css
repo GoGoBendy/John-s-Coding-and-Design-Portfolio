@@ -21,3 +21,10 @@ a:hover {
 a   {
     color: blue;
 }
+p   {
+    border: solid 15px black;
+    color: white;
+    padding: 15px;
+    margins: auto;
+    
+}

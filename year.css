@@ -1,0 +1,51 @@
+h1  {
+    color: black;
+    border: solid 5px darkgrey;
+    display: inline-block;
+    text-align: center;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+    border-radius: 15px;
+    font-weight: bold;
+    background-color: grey;
+}
+body    {
+    background-color: darkgrey;
+    margin: auto;
+    border: solid 7.5px black;
+    border-radius: 35px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.text   {
+    background-color: grey;
+    border: solid 1px grey;
+    display: inline;
+    border-radius: 5px;
+    text-align: center;
+}
+.heading    {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.link   {
+    font-weight: bold;
+
+}
+a:hover {
+    color: lightblue;
+    background-color: grey
+}
+a   {
+    background-color: darkgrey;
+    color: blue;
+}
+img {
+    width: 500px;
+    border-radius: 15px;
+    border: solid 5px black;
+}
